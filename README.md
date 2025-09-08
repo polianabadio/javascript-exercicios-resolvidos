@@ -1,6 +1,9 @@
 # javascript-exercicios-resolvidos
 Exercício Prático de Git e GitHub
 
+-Pasta exercícios
+Pasta que exibe exercícios resolvidos com padrão de nomenclatura funçãoId
+
 ##Lista de exercícios:
 
 - Subtração - Programa que realiza a subtração entre 2 números.
